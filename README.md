@@ -1,4 +1,4 @@
-# Bitcoin-Arbitrage-Assessment
+# Arbitrage Assessment of Bitcoin: Bitstamp vs. Coinbase 
 
 ![Bitcoin](./images/bitcoin.jpg)
 
