@@ -14,7 +14,7 @@
 
 ## Examples
 
-![First cell block to start from](./images/first_cell_highlighted.png]
+![First cell block to start from](./images/first_cell_highlighted.png)
 
 ![Code block](./images/code_block.png)
 
