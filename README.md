@@ -10,6 +10,10 @@
 
 ## Installation Guide
 
+![First cell block to start from](./images/first_cell_block.png]
+
+![Code block](./images/code_block.png)
+
 ---
 
 ## Examples
