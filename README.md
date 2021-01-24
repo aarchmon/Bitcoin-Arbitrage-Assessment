@@ -6,6 +6,12 @@
 
 ## Technologies
 
+Before attempting to execute any _Python_ code in `crypto_arbitrage.ipynb`, it is imperative that your development environment has the `pandas` and `matplotlib` modules installed. 
+
+[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
+
+[matplotlib](https://matplotlib.org/) - Data visualization module.
+
 ---
 
 ## Installation Guide
