@@ -1,5 +1,7 @@
 # Arbitrage Assessment of Bitcoin: Bitstamp vs. Coinbase 
 
+According to [investopedia.com](investopedia.com), arbitrage "is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets." In this repository, we analyze arbitrage opportunities of Bitcoin across the Bitstamp and Coinbase markets via the `pandas` module. 
+
 ![Bitcoin](./images/bitcoin.jpg)
 
 ---
