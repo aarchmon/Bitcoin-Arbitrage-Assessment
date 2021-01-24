@@ -16,6 +16,13 @@ Before attempting to execute any _Python_ code in `crypto_arbitrage.ipynb`, it i
 
 ## Installation Guide
 
+With your _Python 3.7+_ environment, run the following commands via CLI:
+
+```
+pip install pandas
+pip install matplotlib
+```
+
 ---
 
 ## Examples
