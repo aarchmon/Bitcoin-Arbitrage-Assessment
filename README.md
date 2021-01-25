@@ -1,18 +1,37 @@
 # Arbitrage Assessment of Bitcoin: Bitstamp vs. Coinbase 
 
+According to [investopedia.com](investopedia.com), arbitrage "is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets." In this repository, we analyze arbitrage opportunities of Bitcoin across the Bitstamp and Coinbase markets via the `pandas` module. 
+
 ![Bitcoin](./images/bitcoin.jpg)
 
 ---
 
 ## Technologies
 
+Before attempting to execute any _Python_ code in `crypto_arbitrage.ipynb`, it is imperative that your development environment has the `pandas` and `matplotlib` modules installed. 
+
+[pandas](https://pandas.pydata.org/pandas-docs/stable/) - Data analysis module.
+
+[matplotlib](https://matplotlib.org/) - Data visualization module.
+
 ---
 
 ## Installation Guide
 
+With your _Python 3.7+_ environment, run the following commands via CLI:
+
+```
+pip install pandas
+pip install matplotlib
+```
+
 ---
 
 ## Examples
+
+![First cell block to start from](./images/first_cell_highlighted.png)
+
+![Code block](./images/code_block.png)
 
 ---
 
